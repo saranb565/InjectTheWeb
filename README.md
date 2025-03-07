@@ -1,6 +1,6 @@
 # 🚀 PortSwigger Lab Solutions – Web Security with BurpSuite  
 
-This repository contains solutions to various **PortSwigger Web Security Academy** labs, using **BurpSuite** as the primary tool for testing and exploitation. The solutions focus on **SQL Injection, Cross-Site Scripting (XSS), and CSRF attacks**, demonstrating how these vulnerabilities can be exploited and how to mitigate them.  
+This repository contains solutions to selected **PortSwigger Web Security Academy** labs, using **BurpSuite** as the primary tool for testing and exploitation. The solutions focus on **SQL Injection, Cross-Site Scripting (XSS), and CSRF attacks**, demonstrating how these vulnerabilities can be exploited and how to mitigate them.  
 
 ## 📜 About This Repository  
 
